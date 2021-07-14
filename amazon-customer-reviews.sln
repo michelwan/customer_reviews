@@ -22,6 +22,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{4B13FDE6-014E-4672-98E0-5D26E2BCC8B2}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "amazon_customer_reviews_test", "test\application\amazon_customer_reviews_test.csproj", "{D0EF180E-54E1-4820-A9FC-C8E6A6207B2C}"
